@@ -7,5 +7,7 @@ case $diceNum in
 			;;
 		3) echo "third facce"
 			;;
+		4) echo "fourth face"
+			;;
 		*) echo "no one
 esac"
