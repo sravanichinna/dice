@@ -11,5 +11,7 @@ case $diceNum in
 			;;
 		5) echo "fifth face"
 			;;
-		*) echo "no one
+		6) echo "sixth face"
+			;;
+		*) echo "no one"
 esac"
